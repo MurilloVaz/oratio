@@ -1,0 +1,4 @@
+appname: "oratio"
+connectionString: "mongodb://localhost:27017"
+database: "oratio"
+port: 8000
